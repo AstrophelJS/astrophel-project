@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "web",
-    "site": "https://covictory-web-ar.firebaseapp.com",
-    "package_name": "com.covictory.web.ar",
-    "sha256_cert_fingerprints": ["95:74:8B:E6:EF:27:E2:44:A9:70:96:21:23:3E:E9:4E:0C:D2:D0:53:54:2F:6D:BF:0F:36:1F:7B:3D:EA:AE:E9"]
+    "site": "url",
+    "package_name": "package-name",
+    "sha256_cert_fingerprints": [""]
   }
 }]
